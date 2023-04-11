@@ -2,6 +2,8 @@
 
 Python Travel is an app that allows users to track which countries and cities they would like to visit, and record the places they have already been.
 
+![name](https://github.com/Neil-Burgoyne/Python-Project/blob/main/homepage/Python%20Global%20Travel.png)
+
 ## Brief
 
 Build an app to track someone's travel adventures.
