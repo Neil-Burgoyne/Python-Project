@@ -22,6 +22,8 @@ Build an app to track someone's travel adventures.
 
 ## Project Setup
 
+<hr>
+
 ### Drops database:
 
 ```
